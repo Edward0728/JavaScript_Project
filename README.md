@@ -1,2 +1,2 @@
 # JavaScript-Project
-Course project from JavaScript Bootcamp courses on Udemy.
+Course project from JavaScript Bootcamp course on Udemy.
